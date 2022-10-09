@@ -1,0 +1,67 @@
+﻿  Main.cpp
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(53,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(107,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(107,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(112,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(112,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(117,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(117,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(120,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(120,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(123,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(123,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(133,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(135,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(137,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(139,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(171,85): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(171,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(176,84): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(176,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(180,84): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(180,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(184,84): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(184,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(188,84): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Project3- Minesweeper\Main.cpp(188,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Project3- Minesweeper.vcxproj -> C:\Users\longw\Documents\09- School\02 - Programming Fundamentals 2 (COP 3503)\Code\Project3 - MineSweeper\Project3- Minesweeper\Debug\Project3- Minesweeper.exe
